@@ -17,7 +17,7 @@
 <h2 align="center">Leetcode Info<h2>
 
   
-  <img  align=top flex-grow=1 src="https://leetcode.com/u/AryanP107/" />  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/AryanP107?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 
 
